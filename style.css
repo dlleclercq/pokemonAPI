@@ -1,36 +1,4 @@
-@font-face {
-    font-family: runescape_uf;
-    src: url('./assets/runescape_uf.ttf');
-}
-
 body {
-    background-color: blue;
     margin: 0;
-    border: white 5px solid;
-    border-radius: 1%;
-}
-
-#dittoPic {
-    width: 15vw;
-    position: relative;
-    right: 3vw;
-    bottom: 5vh;
-}
-
-#ability {
-    color: white;
-    font-size: 36px;
-    position: relative;
-    bottom: 25vh;
-    left: 50vw;
-    font-family: "runescape_uf";
-}
-
-#name {
-    color: white;
-    font-size: 36px;
-    position: relative;
-    bottom: 33vh;
-    left: 15vw;
-    font-family: "runescape_uf";
+    background-color: black;
 }
